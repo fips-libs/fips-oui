@@ -3,7 +3,7 @@
 
 imports:
     fips-nanovg:
-        git: https://github.com/fungos/fips-nanovg.git
+        git: https://github.com/fips-libs/fips-nanovg.git
 
 run:
     blendish:
